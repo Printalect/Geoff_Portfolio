@@ -1,1 +1,1 @@
-Welcome!
+theme: jekyll-theme-slate
